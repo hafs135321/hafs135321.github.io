@@ -172,7 +172,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "외대부고 16기."
   location         : "학교 or 집"
-  email            :
+  email            : 21-20810@hafs.hs.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
